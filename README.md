@@ -30,6 +30,7 @@ I build AI agents and tools for verifiable research. My interests include agent 
 - **[Teichmüller Tutorials](https://github.com/alexyyyander/teichmuller-tutorial)** [![Teichmüller Tutorials GitHub stars](https://img.shields.io/github/stars/alexyyyander/teichmuller-tutorial?style=flat&color=gold)](https://github.com/alexyyyander/teichmuller-tutorial) — tutorials and Lean 4 formalization work exploring connections between complex geometry, topology, and moduli spaces.
 - **[Prompt Injection Defense](https://github.com/alexyyyander/prompt-injection-defense)** [![Prompt Injection Defense GitHub stars](https://img.shields.io/github/stars/alexyyyander/prompt-injection-defense?style=flat&color=gold)](https://github.com/alexyyyander/prompt-injection-defense) — agent guidance and Python tooling for detecting common prompt-injection patterns.
 - **[Mixxx API Bridge](https://github.com/alexyyyander/mixxx-api-bridge)** [![Mixxx API Bridge GitHub stars](https://img.shields.io/github/stars/alexyyyander/mixxx-api-bridge?style=flat&color=gold)](https://github.com/alexyyyander/mixxx-api-bridge) — an HTTP and MIDI bridge for controlling Mixxx from AI agents and MCP clients.
+- **[Southbound](https://github.com/alexyyyander/southbound)** [![Southbound GitHub stars](https://img.shields.io/github/stars/alexyyyander/southbound?style=flat&color=gold)](https://github.com/alexyyyander/southbound) — a local-first IoT access layer that lets agents discover and control devices on the local network.
 
 ### Contributing to
 
