@@ -22,7 +22,7 @@
 
 I build AI agents and tools for verifiable research. My interests include agent memory and safety, multimodal and embodied AI, and formal mathematics in Lean.
 
-[Personal website](https://alexyyyander.github.io/) · [中文介绍](README.zh-CN.md) · [X](https://x.com/AlexYu031821)
+[Personal website](https://alexyyyander.github.io/) · [X](https://x.com/AlexYu031821)
 
 ### Building
 
